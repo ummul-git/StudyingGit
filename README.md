@@ -1,0 +1,2 @@
+# StudyingGit
+Personal purpose
