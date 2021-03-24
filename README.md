@@ -27,6 +27,13 @@ Git push on the first time will not work so wew need too give this below command
        git push --set-upstream StudyingGit master
 For the second time 
        git push 
+
+=====
+Please make sure you have the correct access rights
+and the repository exists.
+agent pid:1900
+gh repo clone ummul-git/StudyingGit
+git push --set-upstream StudyingGit master
          
 
 
