@@ -14,5 +14,20 @@ copy the SSH Key then go to git and create a new SSHKey and paste it
 After this we need to initialize git 
        git init
 
+To know whether modifications are made in file 
+       git status 
+
+To stage the changes from working to staging directory 
+       git add .
+
+Commit the changes
+       git commit -m"commit message"
+
+Git push on the first time will not work so wew need too give this below command
+       git push --set-upstream StudyingGit master
+For the second time 
+       git push 
+         
+
 
 
